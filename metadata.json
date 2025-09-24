@@ -1,0 +1,5 @@
+{
+  "name": "Scratch Project Runner",
+  "description": "Upload and run your Scratch, TurboWarp, or PenguinMod project files (.sb, .sb2, .sb3, .pmp) instantly in your browser using the TurboWarp engine.",
+  "requestFramePermissions": []
+}
